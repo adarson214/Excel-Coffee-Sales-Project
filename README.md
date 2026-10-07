@@ -15,9 +15,11 @@ The project demonstrates the use of Excel for data cleaning, analysis, visualiza
 - Data Analysis
 
 The dataset contains coffee shop transaction information that was used to analyze sales performance across different products, locations, and time periods.
-
+<table>
+<tr>
+<td width="50%">
 Key areas analyzed include:
-- Total sales
+- Total sales 
 - Total orders
 - Quantity sold
 - Sales by coffee type
@@ -25,6 +27,9 @@ Key areas analyzed include:
 - Sales by store location
 - Sales trends by month
 - Sales trends by day and time
+</td>
+<td width="50%">
+Excel Skills Used:
 - Data Formatting
 - Pivot Tables
 - Pivot Charts
@@ -35,6 +40,9 @@ Key areas analyzed include:
 - Slicers
 - Interactive Dashboard Design
 - Dashboard
+</td>
+</tr>
+</table>
 
 The final dashboard provides an interactive overview of coffee shop sales performance. Users can filter the data to explore sales by different coffee types, locations, products, and time periods.
 
