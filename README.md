@@ -4,10 +4,6 @@ This project focuses on analyzing coffee shop sales data and creating an interac
 
 The project demonstrates the use of Excel for data cleaning, analysis, visualization, and dashboard development.
 
-The final dashboard provides an interactive overview of coffee shop sales performance. Users can filter the data to explore sales by different coffee types, locations, products, and time periods.
-<img width="1570" height="809" alt="image" src="https://github.com/user-attachments/assets/2dd4b906-0a46-4dfc-8cd3-41d3d7ab134c" />
-The dashboard was designed to make the data easier to understand and allow users to quickly identify important sales trends and patterns.
-
 ## Objectives
 - Analyze coffee shop sales performance
 - Identify trends in sales over time
@@ -41,6 +37,10 @@ Excel Skills Used:
 - Slicers
 - Interactive Dashboard Design
 - Dashboard
+
+The final dashboard provides an interactive overview of coffee shop sales performance. Users can filter the data to explore sales by different coffee types, locations, products, and time periods.
+<img width="1570" height="809" alt="image" src="https://github.com/user-attachments/assets/2dd4b906-0a46-4dfc-8cd3-41d3d7ab134c" />
+The dashboard was designed to make the data easier to understand and allow users to quickly identify important sales trends and patterns.
 
 ## Key Insights
 The analysis provides insight into:
